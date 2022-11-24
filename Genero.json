@@ -1,0 +1,18 @@
+[ 
+    {
+        "_idGenero" : "1",
+
+        "nombreGenero":"Femenino",
+       
+        "estadoGenero":"activo"
+    },
+
+    {
+        "_idGenero" : "2",
+
+        "nombreGenero":"Masculino",
+       
+        "estadoGenero":"activo"
+    }
+ 
+]

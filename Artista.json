@@ -1,0 +1,39 @@
+[ 
+    {
+        "_idArtista" : "1",
+        "noDocumento" : "103284903",
+        "tipoDocumento": "CC",
+        "nombreArtista":"Fabrizcio",
+        "apellidoArtista":"Restrepo",
+        "nombreArtistico":"Fabrizcio",
+        "feNacimiArtista":"5/04/1988",
+        "emailArtista":"Resart@gmail.com",
+        "estadoArtista":"inactivo"
+    },
+
+    {
+        "_idArtista" : "2",
+        "noDocumento" : "53927824",
+        "tipoDocumento": "CC",
+        "nombreArtista":"Rober",
+        "apellidoArtista":"Galarga",
+        "nombreArtistico":"gotta",
+        "feNacimiArtista":"18/11/1990",
+        "emailArtista":"galaro@gmail.com",
+        "estadoArtista":"inactivo"
+    },
+
+    {
+        "_idArtista" : "3",
+        "noDocumento" : "84408584",
+        "tipoDocumento": "CC",
+        "nombreArtista":"Rosa",
+        "apellidoArtista":"Merlano",
+        "nombreArtistico":"Rosa",
+        "feNacimiArtista":"22/02/1982",
+        "emailArtista":"Merlano@gmail.com",
+        "estadoArtista":"activo"
+    }
+    
+ 
+]
